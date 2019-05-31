@@ -1,0 +1,9 @@
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.CoreCompileInputs.cache
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csproj.CopyComplete
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Users\ralohe\Downloads\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
